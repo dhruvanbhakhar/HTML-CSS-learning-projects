@@ -1,0 +1,44 @@
+.imgitm{
+    width: 350px;
+    height: 280px;
+}
+
+.imge{
+    display: inline;
+    padding: 26px;
+    text-align:justify ;
+    
+    
+}
+
+.menu{
+    display: block;
+    display: inline;
+    /* visibility: hidden; */
+}
+
+
+p{
+    width: 250px;
+    height: 180px;
+    margin: 80px;
+    background-color: lightblue;
+
+}
+
+
+#Mountain
+{
+    width: 250px;
+    height: 180px;
+    position: relative;  
+    top: 20px;
+    /* bottom: 20px; */
+    /* right: 100px; */
+    left: 200px; 
+  
+    
+
+}
+
+

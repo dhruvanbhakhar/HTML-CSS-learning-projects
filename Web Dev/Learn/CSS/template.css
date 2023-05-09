@@ -1,0 +1,200 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1518621736915-f3b1c41bfd00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2luZ2xlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
+    background-size: 100% 600%;
+    margin: auto;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+
+    
+}
+
+#nav {
+    padding: 26px 55px;
+    text-align: center;
+    background-color:darkslategray;
+}
+ 
+#ab{
+    font-size: 20px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+    background-color: aliceblue;
+    padding: 16px;
+    padding-left: 10px;
+    padding-right:10px ;
+    border: 1px solid black;
+    border-radius: 55px;
+    margin: auto;
+    
+
+}
+
+a:link{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:visited{
+    color:black;
+    font-size: 30px;
+    background-color: antiquewhite;
+}
+
+a:hover{
+    font-size: large;
+    color: red;
+    text-decoration: underline;
+
+}
+
+a:active{
+    color: violet;
+}
+
+.btn{
+    padding: 16px;
+    border-radius: 8px;
+    font-size: 12px;
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+    cursor:pointer;
+    
+}
+.btn:hover{
+    color: black;
+    
+}
+
+#spn{
+    padding-left: 10px;
+}
+
+
+
+
+
+
+img{
+    width: 100%;
+    height: auto;
+
+}
+
+#h1 {
+    text-align: center;
+    color: darkcyan;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+    padding: 26px;
+    margin: 0;
+    
+}
+
+#p1 {
+    font-style: italic;
+    text-align: justify;
+    text-align-last: center;
+    padding: 26px 56px;
+    font-family: Arial, Helvetica, sans-serif ;
+    background-color: wheat;
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+#h2 {
+    font-weight: 600px;
+    letter-spacing: 2px;
+
+    text-decoration: overline underline;
+    text-decoration-style: dashed;
+    text-decoration-color: #cccccc ;
+    
+    color: burlywood;
+    text-align: right;
+    background-color: rgb(111, 73, 147);
+    margin: auto;
+    padding: 26px;
+    padding-right: 55px;
+
+}
+
+#p2 {
+word-spacing: 2px;
+line-height: 1.2;
+padding: 26px 45px;
+background-color: lavender;
+text-align: justify;
+margin: 0;
+background-clip: content-box;
+border: dashed;
+margin-bottom: 30px ;
+
+}
+
+#h3 {
+    text-transform: uppercase;
+    text-align: left;
+    padding: 26px;
+    background-color: darkseagreen;
+    outline-style: solid;
+    border: dashed;
+    margin: auto;
+    text-shadow: 2px 2px 3px red, 2px 2px 3px navajowhite;
+
+
+}
+
+#p3 {
+    text-indent: 50px;
+    text-align: justify;
+    
+    padding: 26px 55px;
+    background-color:aquamarine;
+    margin-top:10 ;
+    margin-bottom:30px ;
+    border-top: dashed;
+    border-left: solid;
+    border-right: solid;
+    border-bottom: dashed;
+    border-radius: 55px;
+}
+
+#h4{
+    text-align: center;
+    background-color: #cccccc;
+    padding: 26px 55px;
+}
+
+
+
+ol{
+    list-style-type:lower-roman ;
+   
+}
+
+ul{
+    list-style-type: circle;
+   
+}
+
+ol li{
+    text-shadow: 2px 2px 3px red;
+    
+}
+
+ul li{
+    text-shadow: 0px 0px 3px red, 0px 0px 3px blue;
+    
+}
+
+
+
+
+
